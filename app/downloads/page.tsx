@@ -41,7 +41,7 @@ export default function DownloadsPage() {
             <CardHeader>
               <CardTitle className="text-2xl text-center flex items-center justify-center gap-2">
                 <BookOpen className="h-8 w-8 text-blue-600" />
-                Semester Syllabi
+                Semester Syllabus
               </CardTitle>
             </CardHeader>
             <CardContent>
