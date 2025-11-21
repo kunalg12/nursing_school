@@ -140,7 +140,7 @@ export default function AdmissionsPage() {
         </section>
 
         {/* Fee Structure */}
-        <section className="mb-16">
+        {/* <section className="mb-16">
           <Card>
             <CardHeader>
               <CardTitle className="text-2xl text-center flex items-center justify-center gap-2">
@@ -222,7 +222,7 @@ export default function AdmissionsPage() {
               </div>
             </CardContent>
           </Card>
-        </section>
+        </section> */}
 
         {/* Application Process */}
         <section className="mb-16">
